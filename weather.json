@@ -6,12 +6,12 @@
     "lat": 52.22,
     "lon": 5.18,
     "tz_id": "Europe/Amsterdam",
-    "localtime_epoch": 1620304845,
-    "localtime": "2021-05-06 14:40"
+    "localtime_epoch": 1620306520,
+    "localtime": "2021-05-06 15:08"
   },
   "current": {
-    "last_updated_epoch": 1620304200,
-    "last_updated": "2021-05-06 14:30",
+    "last_updated_epoch": 1620302400,
+    "last_updated": "2021-05-06 14:00",
     "temp_c": 10,
     "temp_f": 50,
     "is_day": 1,
@@ -31,11 +31,11 @@
     "humidity": 62,
     "cloud": 50,
     "feelslike_c": 8,
-    "feelslike_f": 46.5,
+    "feelslike_f": 46.4,
     "vis_km": 10,
     "vis_miles": 6,
-    "uv": 2,
-    "gust_mph": 10.1,
-    "gust_kph": 16.2
+    "uv": 3,
+    "gust_mph": 10.3,
+    "gust_kph": 16.6
   }
 }
