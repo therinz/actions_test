@@ -6,12 +6,12 @@
     "lat": 52.22,
     "lon": 5.18,
     "tz_id": "Europe/Amsterdam",
-    "localtime_epoch": 1620294153,
-    "localtime": "2021-05-06 11:42"
+    "localtime_epoch": 1620294978,
+    "localtime": "2021-05-06 11:56"
   },
   "current": {
-    "last_updated_epoch": 1620293400,
-    "last_updated": "2021-05-06 11:30",
+    "last_updated_epoch": 1620294300,
+    "last_updated": "2021-05-06 11:45",
     "temp_c": 10,
     "temp_f": 50,
     "is_day": 1,
