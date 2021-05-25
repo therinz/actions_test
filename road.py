@@ -7,4 +7,4 @@ file = 'https://gist.githubusercontent.com/soobrosa/b3500853a0d4633fd963/raw/ecd
 gpd.io.file.fiona.drvsupport.supported_drivers['KML'] = 'rw'
 df = gpd.read_file(file, driver='KML')
 
-# actionstes
+print(df)
